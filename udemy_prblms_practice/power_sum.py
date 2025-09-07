@@ -6,5 +6,5 @@ def power_sum(array, power = 1):
     else:
       total += item
     
-  return total ** power
-    
+  return total ** power   
+
